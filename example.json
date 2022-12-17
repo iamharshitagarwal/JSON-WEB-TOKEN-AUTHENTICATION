@@ -1,0 +1,32 @@
+{  
+    "employee1": {  
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    true  
+    },
+    "employee2": {  
+        "name":       "abcd",   
+        "salary":      56000,   
+        "married":    true  
+    } , 
+    "employee3": {  
+        "name":       "efgh",   
+        "salary":      56000,   
+        "married":    true  
+    } , 
+    "employee4": {  
+        "name":       "ijkl",   
+        "salary":      56000,   
+        "married":    true  
+    }  ,
+    "employee5": {  
+        "name":       "mnop",   
+        "salary":      56000,   
+        "married":    true  
+    }  ,
+    "employee6": {  
+        "name":       "qrst",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}  
